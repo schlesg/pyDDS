@@ -1,0 +1,8 @@
+*.pyc
+dist
+__pycache__
+dds/x64/*.so
+dds/armv8/*.so
+build
+pydds_rti_xml.egg-info
+
